@@ -18,7 +18,7 @@ This is a **web-based Airline Management System** developed using **PHP** and **
 
 ### 🧰 Technologies Used
 
-* **Frontend**: HTML, CSS, Bootstrap (assumed), JavaScript
+* **Frontend**: HTML, CSS, JavaScript
 * **Backend**: PHP
 * **Database**: MySQL
 * **Architecture**: Modular PHP with sub-views/includes structure
